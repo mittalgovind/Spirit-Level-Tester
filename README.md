@@ -7,7 +7,7 @@ For running the simulation successfully:
   2. Project.com file needs to be burnt into the MuP(8086 in this case)
   3. While using keypad, give time for bounceback.
   
-<u>Improvements suggested:</u> Use 8284 as clock generator instead of the one provided by Proteus. ROM need not be used, as power is generally not a problem during simulations.
+**Improvements suggested:** Use 8284 as clock generator instead of the one provided by Proteus. ROM need not be used, as power is generally not a problem during simulations.
 
 ### Main Design on Proteus
 ![Main design](https://github.com/mittalgovind/Spirit-Level-Tester/blob/master/images/Full.PNG)
